@@ -28,7 +28,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * Created by liujiafei on 13/9/18.
+ * Created by liujiafei on 13/9/18. 
  */
 
 public class BleManager {
