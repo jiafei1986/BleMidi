@@ -14,11 +14,11 @@ import android.widget.TextView;
 
 import java.util.ArrayList;
 
+import static com.feite.ble.BleManager.REQUEST_ENABLE_BT;
+
 public class BleActivity extends AppCompatActivity {
 
     private final static String TAG = BleActivity.class.getSimpleName();
-
-    private int REQUEST_ENABLE_BT = 1;
 
     private BleManager bleManager;
 
